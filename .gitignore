@@ -1,0 +1,9 @@
+#ignore files
+
+  
+  build/
+  make.bat
+  sphinxenv
+  source/_templates/
+  
+ 
