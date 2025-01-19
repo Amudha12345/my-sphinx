@@ -6,6 +6,6 @@
          python: "3.12"
 
    sphinx:
-      configuration: my-sphinx/source/conf.py
+      configuration: source/conf.py
 
   
